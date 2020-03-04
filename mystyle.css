@@ -1,0 +1,19 @@
+.use {
+  background-color: lightblue;
+}
+.hey {
+    font-size: 50px;
+}
+.home {
+  color: red;
+}
+.gg {
+   width: 350px;
+  border: 15px solid green;
+  padding: 30px;
+  margin: 20px;
+  text-align: center;
+}
+.mice {
+  text-align: right;
+}
